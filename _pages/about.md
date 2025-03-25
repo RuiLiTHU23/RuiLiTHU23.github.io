@@ -49,31 +49,31 @@ Awarded Honors
 
 Journal Reviewer
 ------
-IEEE Trans on Evolutionary Computation (SCI, IF=11.7). 2024.  
-IEEE Trans on Fuzzy System (SCI, IF=11.9). 2023.  
-IEEE Trans on Affective Computing (SCI, IF=11.2). 2024.  
-IEEE Trans on Systems, Mans, Cybernetics: Systems (SCI, IF=8.7). 2025.  
-IEEE Trans on Industrial Informatics (SCI, IF=11.7). 2025.  
-IEEE Trans on Emerging Topics in Computational Intelligence (SCI, IF=5.3). 2024.  
-European Journal of Operational Research (SCI, IF=6). 2025.  
-IEEE Internet of Things Journal (SCI, IF=8.2). 2024.  
-Swarm and Evolutionary Computation (SCI, IF=8.2). 2023.  
-Journal of Industrial Information Integration (SCI, IF=10.4). 2024.  
-Robotics and Computer-Integrated Manufacturing (SCI, IF=9.1). 2025.  
-Information Sciences (SCI, IF=6.7). 2024.  
-Expert Systems with Applications (SCI, IF=7.5). 2022.  
-Journal of Cleaner Production (SCI, IF=11.1). 2024.  
-Complex & Intelligent System (SCI, IF=5.6). 2023.  
-Computers & Operations Research (SCI, IF=4.6). 2023.	 
-Egyptian Informatics Journal (SCI, IF=5.2). 2023.  
-Memetic Computing (SCI, IF=5.2). 2024.  
+IEEE Trans on Evolutionary Computation (SCI, IF=11.7)
+IEEE Trans on Fuzzy System (SCI, IF=11.9)  
+IEEE Trans on Affective Computing (SCI, IF=11.2)
+IEEE Trans on Systems, Mans, Cybernetics: Systems (SCI, IF=8.7) 
+IEEE Trans on Industrial Informatics (SCI, IF=11.7)
+IEEE Trans on Emerging Topics in Computational Intelligence (SCI, IF=5.3)  
+Swarm and Evolutionary Computation (SCI, IF=8.2)
+Expert Systems with Applications (SCI, IF=7.5)
+European Journal of Operational Research (SCI, IF=6)
+IEEE Internet of Things Journal (SCI, IF=8.2)  
+Journal of Industrial Information Integration (SCI, IF=10.4) 
+Robotics and Computer-Integrated Manufacturing (SCI, IF=9.1)
+Information Sciences (SCI, IF=6.7)
+Journal of Cleaner Production (SCI, IF=11.1)
+Complex & Intelligent System (SCI, IF=5.6)
+Computers & Operations Research (SCI, IF=4.6)
+Egyptian Informatics Journal (SCI, IF=5.2)
+Memetic Computing (SCI, IF=5.2)
 
 
 Project
 ------
 1.United Fund projects "A whole-process modeling and learning-based intelligent optimization method for tin chemical production", participate, U24A20273. 2025.1-2029.12.  
 2.National Key Research and Development Project "Discrete Manufacturing Smart Factory Manufacturing Operations Management Platform", participate, 2023YFB3308002. 2023.12-2026.11.  
-3.Key Research and Development Project</font> "Development and Application of integrated Platform of Design/Manufacturing/Operation and Maintenance of large-scale engineering Equipment under complex Construction Environment", participate, 2021YFB3301602. 2021.12-2024.11.
+3.Key Research and Development Project "Development and Application of integrated Platform of Design/Manufacturing/Operation and Maintenance of large-scale engineering Equipment under complex Construction Environment", participate, 2021YFB3301602. 2021.12-2024.11.
 
 Just Thinking
 ------
