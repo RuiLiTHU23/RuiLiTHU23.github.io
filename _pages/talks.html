@@ -5,12 +5,97 @@ permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div id="main">
+										
+			    <a name="Code"></a>
+				<h2>Code</h2>
+				
+				<ul>
+					<LI>
+					<b>Pls contact Dr. Li (li-r23@mails.tsinghua.edu.cn) for all other source codes in our papers. The Core Code of our work would be shared if you send us an email first. <font color="red">If you are ready to send me an email, please tell me your name, organization, instructor, and your needs. Please do not take the results and publish a paper with just a small modification to our code and claim our innovation as your own work in the paper, which is academic misconduct. </font> </b>
+					</LI>
+				</ul>
+				
+				<a name="DataSet"></a>
+				<h2>Dataset</h2>
+				<h3>Job Shop scheduling problem</h3> 
+				<ul>
+					<li><a href="Dataset/JSPLIB.zip">JSP</a> from github <a href="https://github.com/tamy0612/JSPLIB">link</a> <b>ABZ5-9(Adams), FT06, FT10 and FT20(Fisher and Thompson), LA01-40(Lawrence), ORB01-10(Applegate and Cook), SWV01-20 (Storer), yn1-4 (Yamada and Nakano), ta01-80 (Taillard)</b></li>
+					<li><a href="Dataset/JSP_Bench.zip">JSP, FJSP, FJSP_SDST,FSP,FAJSP</a> from github <a https://github.com/ai-for-decision-making-tue/Job_Shop_Scheduling_Benchmark_Environments_and_Instances/tree/main">link</a>  <b>Job Shop Scheduling Benchmark: Environments and Instances for Learning and Non-learning Methods (RobbertReijnen)</b></li>
+				</ul>
+				
+				<h3>Flexible Job Shop scheduling problem</h3> 
+				<ul>
+					<li><a href="Dataset/FJSP.zip">FJSP</a>  <b>Mk01-10(Brandimarte), DP01-18(Dauzere), Barnes,Hurink</b></li>
+					<li><a href="Dataset/FFJSP.rar">FFJSP</a>  <b>FJSP with triangular fuzzy processing time, Lei01-05(Deming. Lei), Gao01-08(Kaizhou Gao)</b></li>
+					<li><a href="Dataset/T2FJSP.rar">T2FJSP</a>  <b>FJSP with type-2 fuzzy processing time, Li01-30(Junqing. Li)</b></li>
+					<li><a href="Dataset/DHFJSP.rar">DHFJSP</a>  <b>Distributed heterogeneous FJSP containing 20 instances and a real world case(Rui. Li)</b></li>
+					<li><a href="Dataset/FJSP-T.rar">FJSP-T</a>  <b>FJSP with finite transportation resources, containing 50 instances from two literature(Bilge and Ulusoy (1995), Deroussi and Norre (2010)) </b></li>
+				</ul>
+				
+				<h3>Permutation Flow Shop scheduling problem</h3> 
+				<ul>
+					<li><a href="Dataset/Taillard-PFSP.rar">Taillard-PFSP-1993(120 instance)</a>  <b>Permutaion flowshop problem, (Taillard.E)</b></li>
+					<li><a href="Dataset/VFR-PFSP.7z">VFR-PFSP-2017(240 instance)</a>  <b>Permutaion flowshop problem, (Eva Vallada)</b></li>
+					<li><a href="Dataset/DPFSP.rar">DPFSP</a>  <b>Distributed permutaion flowshop problem, (Junqing. Li)</b></li>	
+					<li><a href="Dataset/DPFSP.7z">DPFSP(480 small, 720 large)</a>  <b>Distributed permutaion flowshop problem (most use), (Naderi, B 2010)</b></li>
+					<li><a href="Dataset/DAPFSP.rar">DAPFSP</a>  <b>Distributed assambly flowshop problem, (Junqing. Li)</b></li>
+					<li><a href="Dataset/PFSP_NOIDLE.7z">PFSP_NOIDLE</a>  <b>Permuation flowshop problem with no idle time</b></li>
+					<li><a href="Dataset/FlowShop_Mixed_No_Idle.7z">FlowShop_Mixed_No_Idle</a>  <b>Flow shop problem with mixed no-idle time</b></li>
+					<li><a href="Dataset/PFSP_SDST.7z">PFSP_SDST</a>  <b>Permuation flowshop problem with sequence dependend set up time</b></li>
+					<li><a href="Dataset/DHPFSP_LR2023CAIS.rar">DHPFSP</a>  <b>Distributed heterogeneous PFSP (Rui.Li)</b></li>
+				</ul>
+				
+				<h3>Hybrid Flow Shop scheduling problem</h3> 
+				<ul>
+					<li><a href="Dataset/HFS-77.rar">HFSP</a>  <b>Hybrid flowshop problem, Li01-77(Junqing. Li)</b></li>			
+					<li><a href="Dataset/EADHFSP.rar">EADHFSP</a><b>Energy-Aware Distributed Hybrid flow shop problem with uniform machine(Jingjing. Wang, TEVC,2022)</b></li>
+					<li><a href="Dataset/DHHFSPMPJ.rar">DHHFSPMPJ</a>  <b>Distributed heterogeneous HFSP containing 20 instances and a real world case(Rui. Li)</b></li>
+				</ul>
+				
+				<h3>Cplex code for MILP model</h3> 
+				<ul>
+					<li><a href="Code/EEFJSP.rar">EEFJSP</a>  <b>Energy-efficient flexible job shop scheduling problem</b></li>
+					<li><a href="Code/EEDFJSP.rar">EEDFJSP</a>  <b>Energy-efficient distributed flexible job shop scheduling problem</b></li>
+					<li><a href="Code/CPLEX-DHHFSPMPJ.rar">CPLEX-DHHFSPMPJ</a>  <b>Energy-efficient distributed heterogeneous hybrid flowshop scheduling with multiple priorities of job (Rui.Li)</b></li>
+				</ul>
+				
+				<h3>Movelens recommended system</h3> 
+				<ul>
+					<li><a href="https://grouplens.org/datasets/movielens/">Movelens Dataset</a></li>
+					<li><a href="Code/DSGD.zip">DSGD</a>  <b>Distributed stochastic gradient descent algorithm</b></li>
+				</ul>
+				
+				<a name="Literature Review"></a>
+				<h2>Literature Review</h2>
+				<h3>Job Shop scheduling problem</h3> 
+				<ul>
+					<li><a href="https://link.springer.com/article/10.1007/s10845-017-1350-2">Review of job shop scheduling research and its new perspectives under Industry 4.0 (Jian Zhang 2024 JIM)</a></li>
+				</ul>
+				
+				<h3>Flexible Job Shop scheduling problem</h3> 
+				<ul>
+					<li><a href="https://www.sciencedirect.com/science/article/pii/S037722172300382X">The flexible job shop scheduling problem: A review (StÃ©phane DauzÃ¨re-PÃ©rÃ¨s 2024 EJOR)</a></li>
+				</ul>
+				
+				<h3>Permutaion Flow Shop scheduling problem</h3>
+				<ul>
+					<li><a href="https://www.sciencedirect.com/science/article/pii/S0377221723001170">A review and classification on distributed permutation flowshop scheduling problems (Paz Perez-Gonzalez 2023 EJOR)</a></li>
+				</ul>
+				
+				<h3>Hybrid Flow Shop scheduling problem</h3>
+				<ul>
+					<li><a href="https://www.sciencedirect.com/science/article/pii/S037722172200652X?via%3Dihub">A systematic review of multi-objective hybrid flow shop scheduling (Janis S. Neufeld 2023 EJOR)</a></li>
+					
+				</ul>
+				
+				<h3>integrated scheduling and outbound vehicle routing problem</h3>
+				<ul>
+					<li><a href="https://www.sciencedirect.com/science/article/pii/S0377221722010050">A review on integrated scheduling and outbound vehicle routing problems (Lotte Berghman 2023 EJOR)</a></li>
+				</ul>
+				
+				<h3>integrated scheduling and outbound vehicle routing problem</h3>
+				<ul>
+					<li><a href="https://www.sciencedirect.com/science/article/pii/S0377221722010050">A review on integrated scheduling and outbound vehicle routing problems (Lotte Berghman 2023 EJOR)</a></li>
+				</ul>
+			</div>
