@@ -33,10 +33,10 @@ Educations
 Awarded Honors
 ------
 14.Dazhong Wang Scholarship (One of Tsinghua University Special Scholarship), 2024.(Tsinghua University)  
-13.National Scholarship for Ph.D Students</font>, 2024.(Tsinghua University, Department of Automation)  
+13.National Scholarship for Ph.D Students, 2024.(Tsinghua University, Department of Automation)  
 12.Outstanding master's thesis of 7th Intelligent Optimization and Scheduling Conference, Awarded by Intelligent Simulation Optimization and scheduling committee, 2024.5  
 11.Excellent Ph.D Student of Beijing Automation Society</font>, Awarded by Beijing Automation Society, 2023.12.  
-10.Outstanding master's thesis and graduate</font>, Awarded by CUG, 2023.6.  
+10.Outstanding master's thesis and graduate, Awarded by CUG, 2023.6.  
 9.Second prize of Excellent Paper Award of the 6th Intelligent Optimization and Scheduling Conference, Awarded by Intelligent Simulation Optimization and scheduling committee, 2023.5.  
 8.Special prize of the 33rd Science and Technology Paper Report Meeting of China University of Geosciences (Wuhan), Awarded by CUG, 2022.  
 7.National Scholarship for Postgraduate Students, Awarded by China Ministry of Education, 2022.(CUG, School of CS, Ms)  
