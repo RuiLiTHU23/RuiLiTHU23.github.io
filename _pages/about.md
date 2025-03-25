@@ -32,47 +32,45 @@ Educations
 
 Awarded Honors
 ------
-14.Dazhong Wang Scholarship (One of Tsinghua University Special Scholarship), 2024.(Tsinghua University)
-13.National Scholarship for Ph.D Students</font>, 2024.(Tsinghua University, Department of Automation)
-12.Outstanding master's thesis of 7th Intelligent Optimization and Scheduling Conference, Awarded by Intelligent Simulation Optimization and scheduling committee, 2024.5.
-11.Excellent Ph.D Student of Beijing Automation Society</font>, Awarded by Beijing Automation Society, 2023.12.
-10.Outstanding master's thesis and graduate</font>, Awarded by CUG, 2023.6.
-9.Second prize of Excellent Paper Award of the 6th Intelligent Optimization and Scheduling Conference, Awarded by Intelligent Simulation Optimization and scheduling committee, 2023.5.
-8.Special prize of the 33rd Science and Technology Paper Report Meeting of China University of Geosciences (Wuhan), Awarded by CUG, 2022.
-7.National Scholarship for Postgraduate Students, Awarded by China Ministry of Education, 2022.(CUG, School of CS, Ms)
-6.National Scholarship for Postgraduate Students, Awarded by China Ministry of Education, 2021.(CUG, School of CS, Ms)
-5.The third prizee of the 18th "Huawei Cup" National Graduate. Mathematical Contest in Modeling</font>, Awarded by "Huawei Cup" 2021 Program Committee, 2021.
-4.The third prizee of the 17th "Huawei Cup" National Graduate. Mathematical Contest in Modeling, Awarded by "Huawei Cup" 2020 Program Committee, 2020.
-3.National Encouragement Scholarship</font>, Awarded by China Ministry of Education, 2019.
-2.First prize in Central China Region of the 2th China CPU Parallel Optimization Challenge (CPC), Awarded by China Computer Federation, 2018.
-1.President Scholarship, Awarded by China University of Geosciences, 2017.
+14.Dazhong Wang Scholarship (One of Tsinghua University Special Scholarship), 2024.(Tsinghua University)  
+13.National Scholarship for Ph.D Students</font>, 2024.(Tsinghua University, Department of Automation)  
+12.Outstanding master's thesis of 7th Intelligent Optimization and Scheduling Conference, Awarded by Intelligent Simulation Optimization and scheduling committee, 2024.5  
+11.Excellent Ph.D Student of Beijing Automation Society</font>, Awarded by Beijing Automation Society, 2023.12.  
+10.Outstanding master's thesis and graduate</font>, Awarded by CUG, 2023.6.  
+9.Second prize of Excellent Paper Award of the 6th Intelligent Optimization and Scheduling Conference, Awarded by Intelligent Simulation Optimization and scheduling committee, 2023.5.  
+8.Special prize of the 33rd Science and Technology Paper Report Meeting of China University of Geosciences (Wuhan), Awarded by CUG, 2022.  
+7.National Scholarship for Postgraduate Students, Awarded by China Ministry of Education, 2022.(CUG, School of CS, Ms)  
+6.National Scholarship for Postgraduate Students, Awarded by China Ministry of Education, 2021.(CUG, School of CS, Ms)  
+5.The third prizee of the 18th "Huawei Cup" National Graduate. Mathematical Contest in Modeling</font>, Awarded by "Huawei Cup" 2021 Program Committee, 2021.  
+4.The third prizee of the 17th "Huawei Cup" National Graduate. Mathematical Contest in Modeling, Awarded by "Huawei Cup" 2020 Program Committee, 2020.  
+3.National Encouragement Scholarship</font>, Awarded by China Ministry of Education, 2019.  
+2.First prize in Central China Region of the 2th China CPU Parallel Optimization Challenge (CPC), Awarded by China Computer Federation, 2018.  
+1.President Scholarship, Awarded by China University of Geosciences, 2017.  
 
 Journal Reviewer
 ------
-IEEE Trans on Evolutionary Computation (SCI, IF=11.7, T1 Top). 2024.
-IEEE Trans on Fuzzy System (SCI, IF=11.9, T1 Top). 2023.
-IEEE Trans on Affective Computing (SCI, IF=11.2, T2). 2024.
-IEEE Trans on Systems, Mans, Cybernetics: Systems (SCI, IF=8.7, T1). 2025.
-IEEE Trans on Industrial Informatics (SCI, IF=11.7, T1). 2025.
-IEEE Trans on Emerging Topics in Computational Intelligence (SCI, IF=5.3, T3). 2024.
-European Journal of Operational Research (SCI, IF=6, T1). 2025.
-IEEE Internet of Things Journal (SCI, IF=8.2, T1). 2024.
-Swarm and Evolutionary Computation (SCI, IF=8.2, T1). 2023.
-Journal of Industrial Information Integration (SCI, IF=10.4, T1). 2024.
-Information Sciences (SCI, IF=6.7, T1). 2024.
-Expert Systems with Applications (SCI, IF=7.5, T1). 2022.
-Journal of Cleaner Production (SCI, IF=11.1, T1). 2024.
-Complex & Intelligent System (SCI, IF=5.6, T2). 2023.
-Computers & Operations Research (SCI, IF=4.6, T2). 2023.	
-Egyptian Informatics Journal (SCI, IF=5.2, T3). 2023.
-Memetic Computing (SCI, IF=5.2, T3). 2024.
+IEEE Trans on Evolutionary Computation (SCI, IF=11.7, T1 Top). 2024.  
+IEEE Trans on Fuzzy System (SCI, IF=11.9, T1 Top). 2023.  
+IEEE Trans on Affective Computing (SCI, IF=11.2, T2). 2024.  
+IEEE Trans on Systems, Mans, Cybernetics: Systems (SCI, IF=8.7, T1). 2025.  
+IEEE Trans on Industrial Informatics (SCI, IF=11.7, T1). 2025.  
+IEEE Trans on Emerging Topics in Computational Intelligence (SCI, IF=5.3, T3). 2024.  
+European Journal of Operational Research (SCI, IF=6, T1). 2025.  
+IEEE Internet of Things Journal (SCI, IF=8.2, T1). 2024.  
+Swarm and Evolutionary Computation (SCI, IF=8.2, T1). 2023.  
+Journal of Industrial Information Integration (SCI, IF=10.4, T1). 2024.  
+Information Sciences (SCI, IF=6.7, T1). 2024.  
+Expert Systems with Applications (SCI, IF=7.5, T1). 2022.  
+Journal of Cleaner Production (SCI, IF=11.1, T1). 2024.  
+Complex & Intelligent System (SCI, IF=5.6, T2). 2023.  
+Computers & Operations Research (SCI, IF=4.6, T2). 2023.	 
+Egyptian Informatics Journal (SCI, IF=5.2, T3). 2023.  
+Memetic Computing (SCI, IF=5.2, T3). 2024.  
 
 
 Project
 ------
-1.United Fund projects "A whole-process modeling and learning-based intelligent optimization method for tin chemical production", participate, U24A20273. 2025.1-2029.12.
-
-2.National Key Research and Development Project "Discrete Manufacturing Smart Factory Manufacturing Operations Management Platform", participate, 2023YFB3308002. 2023.12-2026.11.
-
+1.United Fund projects "A whole-process modeling and learning-based intelligent optimization method for tin chemical production", participate, U24A20273. 2025.1-2029.12.  
+2.National Key Research and Development Project "Discrete Manufacturing Smart Factory Manufacturing Operations Management Platform", participate, 2023YFB3308002. 2023.12-2026.11.  
 3.Key Research and Development Project</font> "Development and Application of integrated Platform of Design/Manufacturing/Operation and Maintenance of large-scale engineering Equipment under complex Construction Environment", participate, 2021YFB3301602. 2021.12-2024.11.
 
