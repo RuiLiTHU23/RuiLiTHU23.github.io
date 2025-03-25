@@ -10,12 +10,19 @@ redirect_from:
 I was born in Honghu city,Hubei province, China in 1998. I received B.Eng.degrees in information security from [China University of Geosciences](https://cs.cug.edu.cn/), Wuhan, China in 2020. Respectively, I received the Ms.Eng.degrees in computer science and technology from China University of Geosciences, Wuhan, China in 2023. Now, I am pursuing my ph. D. degree in [Department of Automation, Tsinghua University](https://www.au.tsinghua.edu.cn/). My Ph.D's supervisor is [Prof. Ling Wang](https://www.au.tsinghua.edu.cn/info/1107/1558.htm). My master's supervisor is [Prof. Wenyin Gong](http://grzy.cug.edu.cn/gongwenyin). <br>My research interests include Distributed Shop Scheduling, Complex System Modeling and Simulation, Deep Reinforcement Learning, Evolutionary Multiobjective/Multitasking/Expensive Optimization, Graph Neural Network, AI/ML.
 
 [ResearchGate](https://www.researchgate.net/profile/Rui_Li339)
+
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=PMICp7kAAAAJ)
+
 [ORCID](https://orcid.org/0000-0001-5335-9453)
+
 [Web of Science](https://webofscience.clarivate.cn/wos/author/record/32754071)
+
 [CNIK](https://au.cnki.net/author/personalInfo/000055874812)
+
 [CSDN](https://blog.csdn.net/qq_36820823?type=blog)
+
 [WeChat Public Count:AI4Scheduling](../images/erweicode.jpg)
+
 [Email_personal](mailto:liruicug@163.com)/[Email_public](mailto:li-r23@mails.tsinghua.edu.cn)
 
 A data-driven personal website
