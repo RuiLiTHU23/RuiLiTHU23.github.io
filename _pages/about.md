@@ -74,3 +74,5 @@ Project
 2.National Key Research and Development Project "Discrete Manufacturing Smart Factory Manufacturing Operations Management Platform", participate, 2023YFB3308002. 2023.12-2026.11.  
 3.Key Research and Development Project</font> "Development and Application of integrated Platform of Design/Manufacturing/Operation and Maintenance of large-scale engineering Equipment under complex Construction Environment", participate, 2021YFB3301602. 2021.12-2024.11.
 
+Just Thinking
+------
