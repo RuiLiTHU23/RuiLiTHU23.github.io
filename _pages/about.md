@@ -76,3 +76,5 @@ Project
 
 Just Thinking
 ------
+<p><img border="0" src="./images/cat.gif" width="185" height="100"/></p>
+<a href="https://clustrmaps.com/site/1buwx" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=rDCTl_PjYFZjb0Ik7z8xYkIx1Ty7mDuO_w4SEyhWWGo&cl=ffffff"></a>
