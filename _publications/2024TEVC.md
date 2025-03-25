@@ -1,0 +1,13 @@
+---
+title: "Self-adaptive multi-objective evolutionary algorithm for flexible job shop scheduling with fuzzy processing time"
+collection: publications
+category: manuscripts
+permalink: /publication/2023CAIE
+excerpt: 'This paper proposed a parameter learning method for MOEA/D.'
+date: 2022-03-18
+venue: 'Computers & Industrial Engineering'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0360835222001693'
+citation: 'Rui Li, Wenyin Gong, Chao Lu, Self-adaptive multi-objective evolutionary algorithm for flexible job shop scheduling with fuzzy processing time, <i>Computers & Industrial Engineering </i>,168,2022,108099.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
