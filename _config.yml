@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rui Li / Ph.D Student"
+title                    : "Rui Li / Dr"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
