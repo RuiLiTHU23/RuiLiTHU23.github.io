@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Dr. Rui Li's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
