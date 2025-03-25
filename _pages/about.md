@@ -49,23 +49,24 @@ Awarded Honors
 
 Journal Reviewer
 ------
-IEEE Trans on Evolutionary Computation (SCI, IF=11.7, T1 Top). 2024.  
-IEEE Trans on Fuzzy System (SCI, IF=11.9, T1 Top). 2023.  
-IEEE Trans on Affective Computing (SCI, IF=11.2, T2). 2024.  
-IEEE Trans on Systems, Mans, Cybernetics: Systems (SCI, IF=8.7, T1). 2025.  
-IEEE Trans on Industrial Informatics (SCI, IF=11.7, T1). 2025.  
-IEEE Trans on Emerging Topics in Computational Intelligence (SCI, IF=5.3, T3). 2024.  
-European Journal of Operational Research (SCI, IF=6, T1). 2025.  
-IEEE Internet of Things Journal (SCI, IF=8.2, T1). 2024.  
-Swarm and Evolutionary Computation (SCI, IF=8.2, T1). 2023.  
-Journal of Industrial Information Integration (SCI, IF=10.4, T1). 2024.  
-Information Sciences (SCI, IF=6.7, T1). 2024.  
-Expert Systems with Applications (SCI, IF=7.5, T1). 2022.  
-Journal of Cleaner Production (SCI, IF=11.1, T1). 2024.  
-Complex & Intelligent System (SCI, IF=5.6, T2). 2023.  
-Computers & Operations Research (SCI, IF=4.6, T2). 2023.	 
-Egyptian Informatics Journal (SCI, IF=5.2, T3). 2023.  
-Memetic Computing (SCI, IF=5.2, T3). 2024.  
+IEEE Trans on Evolutionary Computation (SCI, IF=11.7). 2024.  
+IEEE Trans on Fuzzy System (SCI, IF=11.9). 2023.  
+IEEE Trans on Affective Computing (SCI, IF=11.2). 2024.  
+IEEE Trans on Systems, Mans, Cybernetics: Systems (SCI, IF=8.7). 2025.  
+IEEE Trans on Industrial Informatics (SCI, IF=11.7). 2025.  
+IEEE Trans on Emerging Topics in Computational Intelligence (SCI, IF=5.3). 2024.  
+European Journal of Operational Research (SCI, IF=6). 2025.  
+IEEE Internet of Things Journal (SCI, IF=8.2). 2024.  
+Swarm and Evolutionary Computation (SCI, IF=8.2). 2023.  
+Journal of Industrial Information Integration (SCI, IF=10.4). 2024.  
+Robotics and Computer-Integrated Manufacturing (SCI, IF=9.1). 2025.  
+Information Sciences (SCI, IF=6.7). 2024.  
+Expert Systems with Applications (SCI, IF=7.5). 2022.  
+Journal of Cleaner Production (SCI, IF=11.1). 2024.  
+Complex & Intelligent System (SCI, IF=5.6). 2023.  
+Computers & Operations Research (SCI, IF=4.6). 2023.	 
+Egyptian Informatics Journal (SCI, IF=5.2). 2023.  
+Memetic Computing (SCI, IF=5.2). 2024.  
 
 
 Project
