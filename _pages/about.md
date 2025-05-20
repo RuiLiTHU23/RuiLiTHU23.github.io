@@ -49,25 +49,25 @@ Awarded Honors
 
 Journal Reviewer
 ------
-IEEE Trans on Evolutionary Computation (SCI, IF=11.7)
-IEEE Trans on Fuzzy System (SCI, IF=11.9)  
-IEEE Trans on Affective Computing (SCI, IF=11.2)
-IEEE Trans on Systems, Mans, Cybernetics: Systems (SCI, IF=8.7) 
-IEEE Trans on Cybernetics (SCI, IF=9.4)
-IEEE Trans on Industrial Informatics (SCI, IF=11.7)
-IEEE Trans on Emerging Topics in Computational Intelligence (SCI, IF=5.3)  
-Swarm and Evolutionary Computation (SCI, IF=8.2)
-Expert Systems with Applications (SCI, IF=7.5)
-European Journal of Operational Research (SCI, IF=6)
-IEEE Internet of Things Journal (SCI, IF=8.2)  
-Journal of Industrial Information Integration (SCI, IF=10.4) 
-Robotics and Computer-Integrated Manufacturing (SCI, IF=9.1)
-Information Sciences (SCI, IF=6.7)
-Journal of Cleaner Production (SCI, IF=11.1)
-Complex & Intelligent System (SCI, IF=5.6)
-Computers & Operations Research (SCI, IF=4.6)
-Egyptian Informatics Journal (SCI, IF=5.2)
-Memetic Computing (SCI, IF=5.2)
+IEEE Trans on Evolutionary Computation (SCI, IF=11.7).  
+IEEE Trans on Fuzzy System (SCI, IF=11.9).  
+IEEE Trans on Affective Computing (SCI, IF=11.2).  
+IEEE Trans on Systems, Mans, Cybernetics: Systems (SCI, IF=8.7).  
+IEEE Trans on Cybernetics (SCI, IF=9.4).  
+IEEE Trans on Industrial Informatics (SCI, IF=11.7).  
+IEEE Trans on Emerging Topics in Computational Intelligence (SCI, IF=5.3).  
+Swarm and Evolutionary Computation (SCI, IF=8.2).  
+Expert Systems with Applications (SCI, IF=7.5).  
+European Journal of Operational Research (SCI, IF=6).  
+IEEE Internet of Things Journal (SCI, IF=8.2).  
+Journal of Industrial Information Integration (SCI, IF=10.4).  
+Robotics and Computer-Integrated Manufacturing (SCI, IF=9.1).  
+Information Sciences (SCI, IF=6.7).  
+Journal of Cleaner Production (SCI, IF=11.1).  
+Complex & Intelligent System (SCI, IF=5.6).  
+Computers & Operations Research (SCI, IF=4.6).  
+Egyptian Informatics Journal (SCI, IF=5.2).  
+Memetic Computing (SCI, IF=5.2).  
 
 
 Project
