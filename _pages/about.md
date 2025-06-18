@@ -25,7 +25,7 @@ None
 
 Educations
 ======
-09/2025 -- 08/2026: Visting student in College of Computing & Data Science, Nanyang Technological University (Supported by China Scholarship Council)
+09/2025 -- 08/2026: Visting student in College of Computing & Data Science, Nanyang Technological University (Supported by China Scholarship Council)  
 09/2023 -- 07/2027: Ph.D.Eng. student in Department of Automatation, Tsinghua University  
 09/2020 -- 07/2023: M.Eng. student in School of Computer Science, China University of Geosciences, Wuhan  
 09/2016 -- 07/2020: B.Eng. student in School. of Computer Science, China University of Geosciences, Wuhan  
