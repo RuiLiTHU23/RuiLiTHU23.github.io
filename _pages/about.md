@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I was born in Honghu city,Hubei province, China in 1998. I received B.Eng.degrees in information security from [China University of Geosciences](https://cs.cug.edu.cn/), Wuhan, China in 2020. Respectively, I received the Ms.Eng.degrees in computer science and technology from China University of Geosciences, Wuhan, China in 2023. Now, I am pursuing my ph. D. degree in [Department of Automation, Tsinghua University](https://www.au.tsinghua.edu.cn/). My Ph.D's supervisor is [Prof. Ling Wang](https://www.au.tsinghua.edu.cn/info/1107/1558.htm). My master's supervisor is [Prof. Wenyin Gong](http://grzy.cug.edu.cn/gongwenyin). <br>My research interests include Distributed Shop Scheduling, Complex System Modeling and Simulation, Deep Reinforcement Learning, Evolutionary Multiobjective/Multitasking/Expensive Optimization, Graph Neural Network, AI/ML.
+I was born in Honghu city,Hubei province, China in 1998. I received B.Eng.degrees in information security from [China University of Geosciences](https://cs.cug.edu.cn/), Wuhan, China in 2020. Respectively, I received the Ms.Eng.degrees in computer science and technology from China University of Geosciences, Wuhan, China in 2023. Now, I am pursuing my ph. D. degree in [Department of Automation, Tsinghua University](https://www.au.tsinghua.edu.cn/). In 2025, I will visit to Nanyang Technological University for a year, with co-supervisor [Prof. Yew-Soon Ong](https://dr.ntu.edu.sg/entities/person/Ong-Yew-Soon). My Ph.D's supervisor is [Prof. Ling Wang](https://www.au.tsinghua.edu.cn/info/1107/1558.htm). My master's supervisor is [Prof. Wenyin Gong](http://grzy.cug.edu.cn/gongwenyin). <br>My research interests include Distributed Shop Scheduling, Complex System Modeling and Simulation, Deep Reinforcement Learning, Evolutionary Multiobjective/Multitasking/Expensive Optimization, Graph Neural Network, AI/ML.
 
 [ResearchGate](https://www.researchgate.net/profile/Rui_Li339)/
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=PMICp7kAAAAJ)/
@@ -25,6 +25,7 @@ None
 
 Educations
 ======
+09/2025 -- 08/2026: Visting student in College of Computing & Data Science, Nanyang Technological University (Supported by China Scholarship Council)
 09/2023 -- 07/2027: Ph.D.Eng. student in Department of Automatation, Tsinghua University  
 09/2020 -- 07/2023: M.Eng. student in School of Computer Science, China University of Geosciences, Wuhan  
 09/2016 -- 07/2020: B.Eng. student in School. of Computer Science, China University of Geosciences, Wuhan  
@@ -32,6 +33,7 @@ Educations
 
 Awarded Honors
 ------
+15.China Scholarship Council, 2025.  
 14.Dazhong Wang Scholarship (One of Tsinghua University Special Scholarship), 2024.(Tsinghua University)  
 13.National Scholarship for Ph.D Students, 2024.(Tsinghua University, Department of Automation)  
 12.Outstanding master's thesis of 7th Intelligent Optimization and Scheduling Conference, Awarded by Intelligent Simulation Optimization and scheduling committee, 2024.5  
