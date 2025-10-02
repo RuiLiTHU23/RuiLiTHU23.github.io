@@ -33,6 +33,7 @@ Educations
 
 Awarded Honors
 ------
+16.Top2% Scientist of Standford in 2025, rank 24.4w.  
 15.China Scholarship Council, 2025.  
 14.Dazhong Wang Scholarship (One of Tsinghua University Special Scholarship), 2024.(Tsinghua University)  
 13.National Scholarship for Ph.D Students, 2024.(Tsinghua University, Department of Automation)  
