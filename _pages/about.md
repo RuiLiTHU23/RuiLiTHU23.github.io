@@ -15,7 +15,7 @@ I was born in Honghu city,Hubei province, China in 1998. I received B.Eng.degree
 [Web of Science](https://webofscience.clarivate.cn/wos/author/record/32754071)/
 [CNIK](https://au.cnki.net/author/personalInfo/000055874812)/
 [CSDN](https://blog.csdn.net/qq_36820823?type=blog)/
-[WeChat Public Count:AI4Scheduling](../images/erweicode.jpg)/
+[DBLP](https://dblp.uni-trier.de/pid/96/4282-87.html)/
 [Email_personal](mailto:liruicug@163.com)/[Email_public](mailto:li-r23@mails.tsinghua.edu.cn)
 
 News
