@@ -6,7 +6,7 @@ permalink: /publication/2023TSMCS
 excerpt: 'This paper adopted DQN for operator selection for MA for Distributed FJSP.'
 date: 2023-09-06
 venue: 'IEEE Transactions on Systems, Man, and Cybernetics: Systems'
-paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0360835222001693'
+paperurl: 'https://ieeexplore.ieee.org/document/10242078'
 citation: '@ARTICLE{LR2023TSMCS,
   author={Li, Rui and Gong, Wenyin and Wang, Ling and Lu, Chao and Dong, Chenxin},
   journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems}, 
