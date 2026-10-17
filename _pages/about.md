@@ -29,6 +29,8 @@ Educations
 
 Awarded Honors
 ------
+18.Top2% Scientist of Elsevier in 2026, rank 13.9w.  
+17.Top2% Scientist of Standford in 2026, rank 13.9w.  
 16.Top2% Scientist of Standford in 2025, rank 24.4w.  
 15.China Scholarship Council, 2025.  
 14.Dazhong Wang Scholarship (One of Tsinghua University Special Scholarship), 2024.(Tsinghua University)  
